@@ -226,7 +226,7 @@ def getuserdetials(uname):
 
 
 if __name__ == "__main__":
-    initialize("root", "root")
+    initialize("root", "oot")
     # delete()
     print(getuserdetials("cat"))
     pass
